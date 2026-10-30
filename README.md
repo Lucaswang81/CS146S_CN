@@ -13,7 +13,7 @@
 
 **欢迎加入 动手学CS146S 交流群一起讨论，群内不定期分享由赞助商提供的大模型额度，若群二维码过期请添加个人微信**:
 <div align="center">
-  <img src="Resource/imgs/group10-23.png" width="20%" height="auto">,<img src="Resource/imgs/personinfo.png" width="20%" height="auto">
+  <img src="Resource/imgs/group10-30.png" width="20%" height="auto">,<img src="Resource/imgs/personinfo.png" width="20%" height="auto">
 </div>
 
 > 三群开启，感谢大家的热情参与
