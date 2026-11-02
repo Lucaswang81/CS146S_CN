@@ -72,6 +72,7 @@ Check out Atlas Cloud's new coding plan promotion for more budget-friendly API a
 本仓库目前收录第 1–3 周作业，以下链接指向本地副本。后续作业将继续同步。
 
 - 第 1 周：[真实 Claude Code 会话的追踪分析](_assignments/2026%20fall/modern-software-dev-assignments-master/week1/assignment.md)
+-   > 第 1 周要用 Claude Code，平时用 Codex 的还要 Plus，没有学校账号的同学看 [Claude 和 ChatGPT Plus 开通说明](Resource/Claude-Code%E5%85%85%E5%80%BC/README.md)
 - 第 2 周：[为第三方 API 构建 MCP Server](_assignments/2026%20fall/modern-software-dev-assignments-master/week2/assignment.md)
 - 第 3 周：[编写 Skill](_assignments/2026%20fall/modern-software-dev-assignments-master/week3/assignment.md)
 
@@ -115,6 +116,7 @@ Check out Atlas Cloud's new coding plan promotion for more budget-friendly API a
 ### 是否有特殊的软硬件要求？
 
 * 学生需要使用一台能够运行现代开发工具的计算机。某些基于云的服务可能需要订阅（如 GitHub Copilot 等），但课程将尽可能提供访问权限或替代方案。可靠的互联网连接对于使用基于云的工具至关重要。
+* [Claude Code充值：没有斯坦福账号的同学怎么开 Claude 和 Plus会员](Resource/Claude-Code%E5%85%85%E5%80%BC/README.md)——支付宝、微信付，Claude Pro ¥159、ChatGPT Plus ¥129
 
 ### 课程内容的时效性如何？
 
